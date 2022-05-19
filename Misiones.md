@@ -1,3 +1,4 @@
 #Misiones
 
-Investigar planes DR Domm
+* Investigar planes DR Domm
+* Capturar a Red Skull.
